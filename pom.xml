@@ -69,7 +69,7 @@
    <configuration> 
       	 <url>http://localhost:7777/manager/text</url>
       	 <server>TomcatServer</server>
-      	 <path>/WebApp-project</path>
+      	 <path>/WebApps</path>
    </configuration>
 </plugin>
 
